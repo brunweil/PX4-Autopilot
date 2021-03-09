@@ -46,6 +46,7 @@ px4_add_romfs_files(
 	cloudship.main.mix
 	coax.main.mix
 	delta.main.mix
+	SunBreath.mix
 	deltaquad.main.mix
 	direct.main.mix
 	dodeca_bottom_cox.aux.mix
