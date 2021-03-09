@@ -58,6 +58,7 @@ px4_add_romfs_files(
 	3035_viper
 	3036_pigeon
 	3037_parrot_disco_mod
+	3038 SunBreath DeltaWing
 	3100_tbs_caipirinha
 
 	# [4000, 4999] Quadrotor x"
